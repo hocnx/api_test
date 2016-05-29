@@ -4,7 +4,7 @@
     "test": "node ./test"
   },
   "dependencies": {
-    "express": "^4.13.4",
+    "express": "^4.13.4"
   },
   "devDependencies": {
     "supertest": "^1.2.0",

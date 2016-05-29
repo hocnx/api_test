@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node index",
+    "test": "node ./test"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+  },
+  "devDependencies": {
+    "supertest": "^1.2.0",
+    "tape": "^4.5.1"
+  }
+}
